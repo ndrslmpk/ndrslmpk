@@ -1,23 +1,20 @@
-### Hi there 👋
+# 👋 🙋‍♂️ there !
 
-<!--
-**ndrslmpk/ndrslmpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! It's nice to have you here. Enjoy what you see or leave me an issue as comment. 😇 
 
-Here are some ideas to get you started:
+## About ndrslmpk
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning flask, flutter
-- 👯 I’m looking to collaborate on awesome projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: hello@andreas.lempik.de
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always curious meeting 🔥 like-minded 🧑‍🚀 who want to 🛠️ something 🚀. Currently, I'm trying out a Flutter-Flask-Stack and look for an opportunity to contribute to an Open-Source project. 
 
-- 🔭 I’m currently working on a mobile app to help people with mental disorders.
-- 🌱 I’m currently learning flask, flutter.
-- 👯 I’m looking to collaborate on awesome projects, meeting like-minded people who want to build something great.
-- 🤔 I’m looking for somebody who wants to start learning with me on weekends.
-- 💬 Ask me about anything you want.
-- 📫 How to reach me: hello@andreas.lempik.de
+Last but not least, I’m working on a 📱 app to help people with 🧠 disorders. If you want to be a part of this voluntary journey, 🔫 me a message! Let's become real 🦸 for others. 🫶 🧑‍🤝‍🧑
+
+---
+
+Are 🫵 curious and want to learn more? Reach out to me. 
+
+📫 - [hello@andreaslempik.de](mailto:hello@andreaslempik.de)
+
+📅 - _(calendly will be up next)_
+
+
+Wish you all the best my friend 🫡
